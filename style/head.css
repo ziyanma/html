@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding:0;
+}
+.head{
+	height: 48px;
+	width: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	margin: 0px;
+
+background-color: #fff;
+z-index: 700;
+}
+.w1423{
+	    padding: 0 30px;
+	height: 48px;
+	zoom:1;
+	clear: both;
+}
+.head-logo{
+	width: 212px; 
+	height: 48px;
+	top: 0;
+	float: left;
+	background: url(http://i.thsi.cn/sns/circle/newcircle/header2.jpg) no-repeat 0 0;
+}
+.head-direct{
+	width: 390px;
+	height: 48px;
+	left: 248px;
+	top: 0;
+	position: absolute;
+	background-color: green
+}
+.search{
+	width: 210px;
+	height: 48px;
+	float: right;
+	top: 0;
+	background-color: red;
+}
+
+.banner{
+	height: 450px;
+	width:100%;
+	top: 0;
+	left: 0;
+	position: relative;
+	display: block;
+	padding-left: 0;
+	padding-right: 0;
+	margin : 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url(http://u.thsi.cn/fileupload/data/Blog/2016/07c0e2a120bcb452c70ecaad09402d3b.jpg);
+}
+
